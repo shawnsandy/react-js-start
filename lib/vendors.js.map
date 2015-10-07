@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./~/react-dom/index.js"],"names":[],"mappings":";;;;;;;;;;;;;;AAAA;;AAEA","file":"vendors.js","sourcesContent":["'use strict';\n\nmodule.exports = require('react/lib/ReactDOM');\n\n\n\n/*****************\n ** WEBPACK FOOTER\n ** ./~/react-dom/index.js\n ** module id = 158\n ** module chunks = 1\n **/"],"sourceRoot":""}

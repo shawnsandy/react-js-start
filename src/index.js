@@ -4,6 +4,6 @@ import Component from './Component';
 window.onload = () => {
   React.render(
     <Component />,
-    document.querySelector('#container')
+    document.getElementById('container')
   );
 };
