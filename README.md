@@ -1,4 +1,8 @@
-# React webpack starter template
+# Start React JS
+
+__Start React JS__
+
+A quick start toolkit for creating react.js components, Based on - KRASIMIR TSONEV [A modern React starter pack based on webpack](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack) with several modifications like ES7 / Next syntax for static props in libaries
 
 The aim of this repository is to provide a template for developing [React](https://facebook.github.io/react/) based applications using ES6 syntax and [webpack](https://webpack.github.io/) as a module bundler.
 
@@ -8,6 +12,7 @@ The aim of this repository is to provide a template for developing [React](https
 * Compiles ES6 (with [Babel](https://babeljs.io/))
 * Linting (with [ESLint](http://eslint.org/))
 * Build with [webpack](https://webpack.github.io/)
+* Multiple entrypoints -- separate your component(s) vendor imports
 * Test with [Mocha](http://mochajs.org/), [Chai](http://chaijs.com/) and [Sinon](http://sinonjs.org/)
 * Use [Karma](http://karma-runner.github.io/) to run the tests
 * Develop locally with [webpack-dev-server](http://webpack.github.io/docs/webpack-dev-server.html)
@@ -21,6 +26,8 @@ The aim of this repository is to provide a template for developing [React](https
 * Run `npm test` to run the tests once
 * Run `npm run test:ci` to watch the `src` directory for changes and run the tests
 
-## MISC
+## NPM modules
 
-* [A modern React starter pack based on webpack](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack)
+### Change Log
+
+### MISC
