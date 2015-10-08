@@ -7,7 +7,9 @@ import React from 'react';
 const Button = ({
   children = 'Sample Button'
 }) => (
-  <button>{children}</button>
+  <button className="btn btn-info">
+    {children}
+  </button>
 );
 
 /**
@@ -26,7 +28,7 @@ export default class Component extends React.Component {
 
   render() {
     return (
-      <aside className='hello-component'>
+      <aside className="hello-component">
         <h1>{ this.props.title }</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </p>

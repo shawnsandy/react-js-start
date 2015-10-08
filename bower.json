@@ -1,0 +1,28 @@
+{
+  "name": "start-react-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/shawnsandy/start-react-js",
+  "authors": [
+    "Shawn Sandy <shawnsandy04@gmail.com>"
+  ],
+  "description": "A react-js starter toolkit",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "keywords": [
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "packages/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
